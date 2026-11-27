@@ -1,0 +1,1 @@
+#create or replace view v1 as select * from member;
